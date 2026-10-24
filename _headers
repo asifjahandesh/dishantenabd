@@ -1,0 +1,13 @@
+/*
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+  Access-Control-Allow-Headers: *
+
+/*.m3u8
+  Content-Type: application/vnd.apple.mpegurl
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=3600
+
+/*.ts
+  Content-Type: video/mp2t
+  Access-Control-Allow-Origin: *

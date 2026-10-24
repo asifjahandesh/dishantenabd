@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "id": "fixed-1",
+      "name": "NIS Free",
+      "sourceKey": "stream1"
+    },
+    {
+      "id": "fixed-2",
+      "name": "Sky Pack",
+      "sourceKey": "stream2"
+    }
+  ]
+}
